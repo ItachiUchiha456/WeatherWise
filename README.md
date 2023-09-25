@@ -9,7 +9,7 @@ Welcome to the Weather Page project! This web application allows users to check 
 
 ## Demo
 
-Check out the live demo: https://your-weather-page-demo-url.com)](https://weatherwise-eight.vercel.app/dist/index2.html
+Check out the live demo: https://weatherwise-eight.vercel.app/dist/index2.html
 
 ## Features
 
